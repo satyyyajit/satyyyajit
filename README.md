@@ -14,21 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there! 👋 I'm [Your Name]
+### Hey there! 👋 I'm Satyajit
 
-💻 **Tech Enthusiast | Final-Year @ VIT | Full-Stack Developer**  
-🎨 Passionate about **design, coding, and sketching**  
+💻 **LEARNER | Second-Year @ VIT | Full-Stack Developer**  
+🎨 Passionate about **Movies, Gaming, Coding and Sketching**  
 🏆 Placed with a good CTC & represented my university in sports  
 🏠 Ex-MH1 | MH2 | MH4 | Hostel memories forever!  
 
 ---
 
 ### 🚀 What I'm Building
-- **📌 Pinterest Clone** – Express, Node.js, MongoDB, EJS
-- **🎮 Gamer Progress Tracker** – Track gaming stats & achievements
 - **🏠 Hostel Management System** – Role-based React app with payment integration
-- **💰 Loan Predictor AI** – ANN model with TensorFlow/Keras
-- **🎨 Coolors.co Clone** – Next.js-powered color palette generator
+- **💰 Loan Predictor AI (Team)** – ANN model with TensorFlow/Keras
 
 ---
 
@@ -38,9 +35,8 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+
 
 ---
 
@@ -53,8 +49,6 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌐 [Portfolio](https://your-website.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satyajit-panda7155/)
+- 🌐 [Portfolio]([https://your-website.com](https://portfolio-satyaxcode.onrender.com/))
 
-#### ⭐ **Fun fact:** Your support makes open source more awesome! If you like my projects, drop a ⭐!
