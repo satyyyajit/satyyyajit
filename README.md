@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 💻 **LEARNER | Second-Year @ VIT | Full-Stack Developer**  
 🎨 Passionate about **Movies, Gaming, Coding and Sketching**  
-🏆 Placed with a good CTC & represented my university in sports  
-🏠 Ex-MH1 | MH2 | MH4 | Hostel memories forever!  
+🏆 Became Runner-up in GeeksForGeeks HacktoberFest at VITAP
+🏠 Howrah -> Balasore -> Hyderabad
 
 ---
 
