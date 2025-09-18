@@ -1,142 +1,176 @@
-<!-- Satyajit Panda | Portfolio README -->
+<div align="center">
+  
+# 👋 Hi, I'm Satyajit Panda
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Satyajit+Panda;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://satyajit-pf.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/satyajit-panda7155" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/satyyyajit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5e06.gif" width="900" height="80"/>
+
+</div>
+
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 **Computer Science Student** at VIT-AP (2023-2027)  
+🌍 **Based in** Kolkata, India  
+💻 **Passionate about** Full-Stack Development  
+🚀 **Building** scalable web applications  
+⚡ **Fun fact:** I love optimizing code for performance!  
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github.com/satyyyajit/satyyyajit/assets/106889275/10e7fa3a-0bb7-4e50-9d61-848ba179b4e2" width="80" alt="Web Dev Logo" />
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,express,react,nextjs,mysql,mongodb,git,github" alt="Tech Stack" />
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="350" alt="Code Animation" />
-</div>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyyyajit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyyyajit&theme=tokyonight&hide_border=true" />
 
-I'm Satyajit Panda, a Computer Science undergrad at VIT-AP (2023–2027), Kolkata.<br>
-I build scalable web apps, craft robust backends, and optimize for great performance.<br>
-I thrive on innovative projects and love creating user-friendly experiences.
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyyyajit&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyyyajit&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-<h2 align="center">🛠️ Technical Skills</h2>
-
-<table align="center">
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Java, Python, JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks/Libraries</strong></td>
-    <td>Node.js, Express.js, React.js, Next.js</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MySQL, MongoDB</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, GitHub</td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">📂 Projects</h2>
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/106889275/284263688-36c7ba7d-5f7b-4be2-bef9-0f7e5b5c8f68.gif" width="340" alt="Project Animation" />
-</div>
 
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/satyyyajit/hostel-mgt-sys"><strong>Hostel Management System</strong></a>
-      <br>
-      <em>Next.js, Node.js, MongoDB</em>
-      <ul>
-        <li>Automates hostel operations: room allocation, fee management, registration, complaints.</li>
-        <li>Dashboards with JWT-based authentication & optimized UI/UX.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/satyyyajit/student-admission-and-management-system"><strong>Student Admission & Management System</strong></a>
-      <br>
-      <em>Java, MySQL</em>
-      <ul>
-        <li>Menu-driven Java app for student admissions & record management.</li>
-        <li>Automated registration/email/password, secure multi-campus data schema.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🏨 [Hostel Management System](https://github.com/satyyyajit/hostel-mgt-sys)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Features:**
+- 🏠 Automated room allocation system
+- 💰 Fee management & tracking
+- 📝 Student registration portal
+- 🛠️ Complaint management system
+- 🔐 JWT-based authentication
+- 📊 Admin & student dashboards
+
+</td>
+<td width="50%">
+
+### 🎓 [Student Admission System](https://github.com/satyyyajit/student-admission-and-management-system)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+**Features:**
+- 📋 Menu-driven Java application
+- 🎯 Automated student registration
+- 📧 Email & password generation
+- 🏫 Multi-campus data management
+- 🔒 Secure database schema
+- 📊 Student record management
+
+</td>
+</tr>
 </table>
 
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<ul>
-  <li><strong>HacktoberFest Hackathon – Runner-Up</strong>  
-    <br>
-    Built the interface for the <em>CLEAN Project</em> (100+ participants).
-  </li>
-</ul>
+</div>
 
 ---
 
-<h2 align="center">📈 Education</h2>
+## 🏆 Achievements & Recognition
 
-<ul>
-  <li><strong>B.Tech in Computer Science & Engineering</strong> — VIT-AP (2023–2027)</li>
-</ul>
+<div align="center">
 
----
+| 🏅 Achievement | 📅 Year | 📝 Description |
+|:---|:---:|:---|
+| **HacktoberFest Hackathon - Runner-Up** | 2023 | Built interface for CLEAN Project (100+ participants) |
+| **Open Source Contributor** | 2023 | Active contributor to various open-source projects |
 
-<h2 align="center">📫 Connect with Me</h2>
-
-<p align="center">
-  <a href="mailto:satyajitpanda711@gmail.com">
-    <img src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://satyajit-pf.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/satyajit-panda7155" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/satyyyajit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyyyajit&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=satyyyajit&theme=onestar&margin-w=10" alt="GitHub Trophies" />
-</p>
+## 📈 Contribution Activity
+
+<div align="center">
+  
+![Snake animation](https://github.com/satyyyajit/satyyyajit/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+\`\`\`javascript
+const satyajit = {
+    currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
+    workingOn: ["Full-Stack Web Applications", "Open Source Projects"],
+    lookingFor: ["Internship Opportunities", "Collaboration Projects"],
+    goals2024: ["Contribute to major open source projects", "Build scalable applications"],
+    funFact: "I debug with console.log() and I'm proud of it! 😄"
+};
+\`\`\`
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://satyajit-pf.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyajit-panda7155)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyyyajit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyajitpanda711@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=satyyyajit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
 
 ---
 
 <div align="center">
-  <strong>⭐️ From <a href="https://github.com/satyyyajit">Satyajit Panda</a></strong>
+  
+### 💭 Quote of the Day
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5e06.gif" width="900" height="80"/>
+
+**⭐️ From [Satyajit Panda](https://github.com/satyyyajit) with ❤️**
+
 </div>
