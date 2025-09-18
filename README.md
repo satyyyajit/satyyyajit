@@ -119,7 +119,6 @@
 | 🏅 Achievement | 📅 Year | 📝 Description |
 |:---|:---:|:---|
 | **HacktoberFest Hackathon - Runner-Up** | 2023 | Built interface for CLEAN Project (100+ participants) |
-| **Open Source Contributor** | 2023 | Active contributor to various open-source projects |
 
 </div>
 
@@ -137,15 +136,14 @@
 
 ## 🎯 Current Focus
 
-\`\`\`javascript
+```javascript
 const satyajit = {
-    currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-    workingOn: ["Full-Stack Web Applications", "Open Source Projects"],
-    lookingFor: ["Internship Opportunities", "Collaboration Projects"],
-    goals2024: ["Contribute to major open source projects", "Build scalable applications"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    currentlyLearning: ["Flutter", "Machine Learning", "Data Structures and Algorithms"],
+    workingOn: ["Web Apps", "Android Apps"],
+    lookingFor: ["Internship Opportunities"],
+    funFact: "I watch movies more than doind code."
 };
-\`\`\`
+```
 
 ---
 
@@ -165,11 +163,6 @@ const satyajit = {
 ---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-*"The best way to predict the future is to create it."* - Peter Drucker
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5e06.gif" width="900" height="80"/>
 
 **⭐️ From [Satyajit Panda](https://github.com/satyyyajit) with ❤️**
 
