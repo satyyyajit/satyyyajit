@@ -2,21 +2,15 @@
   
 # 👋 Hi, I'm Satyajit Panda
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+@+VIT%F0%9F%8E%93;" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5e06.gif" width="900" height="80"/>
 
 </div>
 
 ## 🌟 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🎓 **Computer Science Student** at VIT-AP (2023-2027)  
-🌍 **Based in** Kolkata, India  
-💻 **Passionate about** Full-Stack Development  
-🚀 **Building** scalable web applications  
-⚡ **Fun fact:** I love optimizing code for performance!  
+I am a 21 y/o Computer Science Undergrad. Always ready to pick up technologies which I find interesting.
+In short of I am a guy with multiple hobby.
 
 <br clear="right"/>
 
@@ -48,7 +42,6 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -87,7 +80,7 @@
 - 📝 Student registration portal
 - 🛠️ Complaint management system
 - 🔐 JWT-based authentication
-- 📊 Admin & student dashboards
+- 📊 Student help dashboards
 
 </td>
 <td width="50%">
@@ -141,7 +134,7 @@ const satyajit = {
     currentlyLearning: ["Flutter", "Machine Learning", "Data Structures and Algorithms"],
     workingOn: ["Web Apps", "Android Apps"],
     lookingFor: ["Internship Opportunities"],
-    funFact: "I watch movies more than doind code."
+    funFact: "I watch movies more than doing code."
 };
 ```
 
@@ -164,6 +157,6 @@ const satyajit = {
 
 <div align="center">
 
-**⭐️ From [Satyajit Panda](https://github.com/satyyyajit) with ❤️**
+**⭐️ From [Satyajit Panda](https://github.com/satyyyajit)**
 
 </div>
