@@ -1,7 +1,7 @@
 # Satyajit Panda
 
 Hi/Namaste/konnichiwa
-Computer Science undergraduate.  
+I am a Computer Science undergraduate @ VIT'27.  
 I build simple, functional apps and read mangas or watch anime and dramas at free time.
 
 ---
