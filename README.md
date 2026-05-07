@@ -1,7 +1,8 @@
 # Satyajit Panda
 
+Hi/Namaste/konnichiwa
 Computer Science undergraduate.  
-I build simple, functional software.
+I build simple, functional apps and read mangas or watch anime and dramas at free time.
 
 ---
 
